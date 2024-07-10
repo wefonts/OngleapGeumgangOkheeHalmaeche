@@ -8,3 +8,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumgangOkheeHalmaeche/OngleapGeumgangOkheeHalmaeche.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapGeumgangOkheeHalmaeche {
+    font-family: "OngleapGeumgangOkheeHalmaeche";
+}
